@@ -5,7 +5,7 @@
  * generated for an **exported** function.
  */
 //% color="#AA278D" weight=100
-namespace Area {
+namespace area {
     //% block="circle radius $radius"
     //% radius.defl=100
     //% radius.min=0 radius.max=1000
