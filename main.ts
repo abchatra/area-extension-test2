@@ -18,6 +18,12 @@ namespace Area {
         return length * width;
     }
 
+    //% block "square length %length"
+    export function square(length: number) {
+        return length * length;
+    }
+
+
     //% block "triangle base %base height %height"
     export function triangle(base:number, height: number) {
         return 0.5 * base * height;
