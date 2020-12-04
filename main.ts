@@ -4,7 +4,7 @@
  * is "block", and it specifies that a block should be
  * generated for an **exported** function.
  */
-//% color="#AA278D" weight=100
+//% color="#AA278D" weight=200
 namespace area {
     //% block="circle radius $radius"
     //% radius.defl=100
